@@ -61,7 +61,7 @@
   "homepage": "https://styled-components.com",
   "dependencies": {
     "buffer": "^5.0.3",
-    "css-to-react-native": "^2.0.3",
+    "css-to-react-native": "^2.3.2",
     "fbjs": "^0.8.9",
     "hoist-non-react-statics": "^1.2.0",
     "is-function": "^1.0.1",
